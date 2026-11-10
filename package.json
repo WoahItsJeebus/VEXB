@@ -3,7 +3,7 @@
   "description": "A desktop builder for Vortex game extensions",
   "author": "VEXB Contributors",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.5.0",
   "type": "module",
   "main": "electron/main.cjs",
   "scripts": {
